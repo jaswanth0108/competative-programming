@@ -1,0 +1,8 @@
+// Problem: EGGBUY
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START255D/problems/EGGBUY
+// Solved on: 2026-09-09T14:56:56.765Z
+
+# cook your dish here
