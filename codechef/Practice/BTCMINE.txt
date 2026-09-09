@@ -1,0 +1,8 @@
+// Problem: BTCMINE
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START255D/problems/BTCMINE
+// Solved on: 2026-09-09T15:54:18.988Z
+
+# cook your dish here
