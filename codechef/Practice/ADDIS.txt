@@ -1,0 +1,8 @@
+// Problem: ADDIS
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START255D/problems/ADDIS
+// Solved on: 2026-09-09T16:10:48.826Z
+
+# cook your dish here
