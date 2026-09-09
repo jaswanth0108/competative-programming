@@ -3,6 +3,6 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START255D/problems/UNQSHF
-// Solved on: 2026-09-09T15:38:25.292Z
+// Solved on: 2026-09-09T15:39:28.270Z
 
 // source not captured automatically - open the solution page and copy it manually
