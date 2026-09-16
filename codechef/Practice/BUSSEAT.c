@@ -3,9 +3,6 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START256D/problems/BUSSEAT
-// Solved on: 2026-09-16T15:57:25.117Z
+// Solved on: 2026-09-16T16:05:27.980Z
 
-3
-2 3
-2 1
-4 8
+// source not captured automatically - open the solution page and copy it manually
