@@ -3,12 +3,6 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START257D/problems/ECHOECHO
-// Solved on: 2026-09-23T14:58:20.953Z
+// Solved on: 2026-09-23T15:14:39.745Z
 
-#include <stdio.h>
-
-int main() {
-	// your code goes here
-
-}
-
+// source not captured automatically - open the solution page and copy it manually
