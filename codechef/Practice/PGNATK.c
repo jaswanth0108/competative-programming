@@ -3,12 +3,6 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START257D/problems/PGNATK
-// Solved on: 2026-09-23T15:14:48.251Z
+// Solved on: 2026-09-23T15:24:23.431Z
 
-#include <stdio.h>
-
-int main() {
-	// your code goes here
-
-}
-
+// source not captured automatically - open the solution page and copy it manually
